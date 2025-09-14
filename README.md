@@ -16,7 +16,6 @@ Credits and references used in this README:
 
 ## About Me
 - I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
 - Senior data engineer at Barclays
 
 
