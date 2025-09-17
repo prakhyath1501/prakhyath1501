@@ -15,7 +15,6 @@ Credits and references used in this README:
 **`Data Engineer/Full Stack Developer`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
 - Senior data engineer at Barclays
 
 
