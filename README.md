@@ -41,7 +41,7 @@ Credits and references used in this README:
       <br/>
       <b>DeepSeek AI Chatbot</b><br/>
       <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      🔗<!-- <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a> -->
       <br/>
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
@@ -54,7 +54,7 @@ Credits and references used in this README:
       <br/>
       <b>Cloud CI/CD Pipeline</b><br/>
       <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      🔗<!-- <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a> -->
       <br/>
       <sub>Tags: DevOps, Docker, GitHub Actions</sub>
     </td>
@@ -67,7 +67,7 @@ Credits and references used in this README:
       <br/>
       <b>Secure AWS VPC</b><br/>
       <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      🔗<!-- <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a> -->
       <br/>
       <sub>Tags: Networking, AWS, Security</sub>
     </td>
