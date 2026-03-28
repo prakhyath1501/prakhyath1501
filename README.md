@@ -90,16 +90,16 @@ Credits and references used in this README:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
+-<!-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio) -->
+- [**Contact**](prakhyath1501@gmail.com)
 
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="https://x.com/prakhyathban" target="blank">
   <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
 </a>
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/prakhyath-bandaluppi/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="https://www.instagram.com/prakhyath.pvt" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
